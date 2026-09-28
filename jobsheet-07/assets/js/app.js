@@ -114,5 +114,5 @@ document.addEventListener("DOMContentLoaded", function () {
     initNavToggle();
     initHapusConfirm();
     initTableFilter();
-    initValidasiForm();
+    //initValidasiForm();
 });
